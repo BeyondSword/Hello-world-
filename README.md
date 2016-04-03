@@ -1,2 +1,7 @@
-# Hello-world-
-nee comer to GITHUB
+Ctype
+#include <stdio.h>
+int main()
+{ 
+    printf("Hello World");
+    return 0;
+}
